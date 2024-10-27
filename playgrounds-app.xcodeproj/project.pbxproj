@@ -1,0 +1,85 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CF4EF6052CCE6E4500F6259A /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CF4EF5FD2CCE6D9100F6259A = {
+			isa = PBXGroup;
+			children = (
+				CF4EF6052CCE6E4500F6259A /* readme.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CF4EF5FE2CCE6D9100F6259A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1600;
+			};
+			buildConfigurationList = CF4EF6012CCE6D9100F6259A /* Build configuration list for PBXProject "playgrounds-app" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF4EF5FD2CCE6D9100F6259A;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				CF4EF6042CCE6DCB00F6259A /* XCLocalSwiftPackageReference "playgrounds-app.swiftpm" */,
+			);
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CF4EF6022CCE6D9100F6259A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CF4EF6032CCE6D9100F6259A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CF4EF6012CCE6D9100F6259A /* Build configuration list for PBXProject "playgrounds-app" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF4EF6022CCE6D9100F6259A /* Debug */,
+				CF4EF6032CCE6D9100F6259A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		CF4EF6042CCE6DCB00F6259A /* XCLocalSwiftPackageReference "playgrounds-app.swiftpm" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = "playgrounds-app.swiftpm";
+		};
+/* End XCLocalSwiftPackageReference section */
+	};
+	rootObject = CF4EF5FE2CCE6D9100F6259A /* Project object */;
+}
